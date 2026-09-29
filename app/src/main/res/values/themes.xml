@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Ignis" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">#E53935</item>
+        <item name="colorAccent">#E53935</item>
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+    </style>
+</resources>
